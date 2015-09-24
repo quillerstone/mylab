@@ -8,5 +8,5 @@
 
 #### mylab站点地址[资源与环境学院][1]。
 #### 主页地址[我的实验室][2]。
-[1]:http://mylab.com   "资源与环境学院"
-[2]:http://mylab.com/mylab "我的实验室"
+[1]:http://mylab.com   "资环学院"
+[2]:http://mylab.com/mylab "我的实验室管理内容"
